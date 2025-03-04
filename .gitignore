@@ -1,0 +1,64 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment files
+.env
+.env.*  
+*.venv/
+.venv/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE files
+.vscode/
+*.idea/
+*.swp
+*.swo
+*.bak
+
+# Logs and Debug files
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Test files
+tests/__pycache__/
+
+# Package and Dependency files
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.lock
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+
+# Ignore model files if necessary
+models/
+*.h5
+*.pkl
+*.joblib
+
+# Secrets or config files
+config.yaml
+config.json

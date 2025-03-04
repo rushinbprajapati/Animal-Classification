@@ -1,0 +1,15 @@
+0 Zebra
+1 Tiger
+2 Panda
+3 Lion
+4 Kangaroo
+5 Horse
+6 Giraffe
+7 Elephant
+8 Dolphin
+9 Dog
+10 Deer
+11 Cow
+12 Cat
+13 Bird
+14 Bear
